@@ -1,4 +1,4 @@
-Damn Vulnerabilities List Lab
+Damn Vulnerabilities List Lab - List copied from Joas A Santos
 
 #AWSGoat : A Damn Vulnerable AWS Infrastructure
  https://lnkd.in/dq2cYPG2
@@ -83,5 +83,3 @@ https://lnkd.in/drVpszwD
 
 #DVCA: Damn Vulnerable Cloud Application
 https://lnkd.in/dPyKYKw4
-
-List copied from Joas A Santos
